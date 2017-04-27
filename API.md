@@ -76,6 +76,7 @@
     - [`number.max(limit)`](#numbermaxlimit)
     - [`number.greater(limit)`](#numbergreaterlimit)
     - [`number.less(limit)`](#numberlesslimit)
+    - [`number.float()`](#numberfloat)
     - [`number.integer()`](#numberinteger)
     - [`number.precision(limit)`](#numberprecisionlimit)
     - [`number.multiple(base)`](#numbermultiplebase)
